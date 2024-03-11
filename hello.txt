@@ -12,10 +12,5 @@ hello, zhang;hello Git!
 hello, zhang;hello Git!
 hello, zhang;hello Git!
 hello, zhang;hello Git!
-<<<<<<< HEAD
 hello, zhang;hello Git! master test
 hello, zhang;hello Git!
-=======
-hello, zhang;hello Git!
-hello, zhang;hello Git! hot-fix test
->>>>>>> hot-fix
