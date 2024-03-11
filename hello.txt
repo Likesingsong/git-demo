@@ -13,4 +13,4 @@ hello, zhang;hello Git!
 hello, zhang;hello Git!
 hello, zhang;hello Git!
 hello, zhang;hello Git!
-hello, zhang;hello Git!
+hello, zhang;hello Git! hot-fix test
